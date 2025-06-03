@@ -71,10 +71,13 @@ This project is open-source and free to use for educational and demo purposes.
 
 ---
 
+Let me know if you'd like this tailored for GitHub Pages, a preview image of the app, or a version with screenshots and badges!
 
 ---
 
-Let me know if you'd like this tailored for GitHub Pages, a preview image of the app, or a version with screenshots and badges!
+OUTPUT
+
+![Image](https://github.com/user-attachments/assets/35ca157d-9df8-4ddd-b80d-e99a4d9374dc)
 
 
 
