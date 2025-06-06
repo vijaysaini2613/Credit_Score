@@ -62,7 +62,7 @@ The result is shown in the GUI as "Approved" or "Not Approved".
 ---
 
 👨‍💻 Author
-Vijay kumar Saini
+Er. Vijay kumar Saini 
 
 A Computer Science enthusiast, passionate about AI, product development, and intuitive user interfaces.
 
