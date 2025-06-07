@@ -77,7 +77,7 @@ Let me know if you'd like this tailored for GitHub Pages, a preview image of the
 
 OUTPUT
 
-![Image](https://github.com/user-attachments/assets/35ca157d-9df8-4ddd-b80d-e99a4d9374dc)
+https://github.com/user-attachments/assets/1122fb37-f3fc-491e-a527-006c0b6755c8
 
 
 
