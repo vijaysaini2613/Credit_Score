@@ -3,6 +3,9 @@
 CrediClear is a smart credit score prediction system built using **Python**, **Tkinter**, and **Machine Learning**. It provides a graphical user interface that allows users to input financial details and get an instant prediction on whether their credit profile is likely to be approved for a loan.
 
 ---
+OUTPUT
+
+![Image_crediclear_](https://github.com/user-attachments/assets/1122fb37-f3fc-491e-a527-006c0b6755c8)
 
 ## 🚀 Features
 
@@ -75,9 +78,6 @@ Let me know if you'd like this tailored for GitHub Pages, a preview image of the
 
 ---
 
-OUTPUT
-
-https://github.com/user-attachments/assets/1122fb37-f3fc-491e-a527-006c0b6755c8
 
 
 
